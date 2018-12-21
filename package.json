@@ -1,20 +1,20 @@
 {
-  "name": "obensource",
+  "name": "sdaniel55",
   "version": "1.1.0",
-  "description": "CLI business card of Ben Michel (@obensource)",
+  "description": "CLI business card of Daniel Spindelbauer (@sdaniel55)",
   "main": "index.js",
   "bin": {
-    "obensource": "./bin/card.js"
+    "sdaniel55": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/obensource/obensource.git"
+    "url": "https://github.com/sdaniel55/sdaniel55.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren, Ben Michel <benpmichel@gmail.com> (http://benmichel.com)",
+  "author": "Tierney Cyren, Daniel Spindelbauer <daniel.spindelbauer@gmail.com> (https://sdaniel55.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
